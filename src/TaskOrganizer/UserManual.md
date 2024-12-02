@@ -13,7 +13,7 @@ Task Organizer is a simple application to manage tasks. It allows users to:
 1. **Clone the Repository**:
    - Use the following command:
      ```bash
-     git clone <your-repo-url>
+     git clone https://github.com/pnuculovic/TaskOrganizer.git
      ```
 
 2. **Compile the Code**:
