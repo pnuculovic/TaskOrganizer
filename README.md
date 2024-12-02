@@ -1,4 +1,4 @@
-# Simple Task Organizer
+# Task Organizer
 
 ## **CSI2300 Course Project**
 
